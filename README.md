@@ -4,7 +4,7 @@
 
 Phương pháp tham khảo công thức TinyML của TinyNav (cửa sổ 20 khung hình xếp theo kênh, CNN 2D lượng tử hóa INT8, hai đầu ra steering / throttle) và chỉnh lại cho bài toán bám lane bằng camera thay vì cảm biến độ sâu ToF.
 
-**Tác giả:** Trần Đạt (`trandat09062003`)
+**Tác giả:** Nhóm AIP391 - G19 - DH FPT
 
 ---
 
